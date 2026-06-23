@@ -111,4 +111,4 @@ Ver **`analise_dados.md`** para a leitura detalhada de cada métrica. O document
 
 ## Autor
 
-Naldo — Analista de Dados em transição. Stack: Python, SQL, Pandas, Power BI, Excel.
+Jose Perez — Analista de Dados em transição. Stack: Python, SQL, Pandas, Power BI, Excel.
